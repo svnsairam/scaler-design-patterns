@@ -1,4 +1,4 @@
-# Creational design patterns - Singleton and Builder
+# Creational design patterns - Singleton and Builder g
 
 - [Creational design patterns - Singleton and Builder](#creational-design-patterns---singleton-and-builder)
   - [Key terms](#key-terms)
